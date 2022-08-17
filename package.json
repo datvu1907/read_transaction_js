@@ -1,0 +1,19 @@
+{
+  "name": "read_transaction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@solana/web3.js": "^1.48.0",
+    "ethereum-input-data-decoder": "^0.4.1",
+    "ethers": "^5.6.9",
+    "g": "^2.0.1",
+    "web3": "^1.7.4"
+  },
+  "description": ""
+}
